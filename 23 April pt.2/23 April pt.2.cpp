@@ -10,7 +10,10 @@ class bangunDatar {
 		float luas;
 
 		void input() { //metode input persegi panjang
-			
+			cout << "Masukkan Panjangnya = ";
+			cin >> panjang;
+			cout << "Masukkan Lebarnya = ";
+			cin >> lebar;
 		}
 
 		float hitungLuas() {
