@@ -28,5 +28,6 @@ class bangunDatar {
 };
 
 int main() {
+	bangunDatar pp; //deklarasi ojek pp dari class bangunDatar
 	
 }
